@@ -1,0 +1,2 @@
+base_fund,fused_fund,base_annualised_return,fused_annualised_return,return_delta,base_sharpe,fused_sharpe,sharpe_delta,base_max_drawdown,fused_max_drawdown
+Combined Minimum Variance,Combined Minimum Variance + Sentiment,0.05635920432947272,0.05571474545611932,-0.000644458873353404,0.4950716486998765,0.490195116630462,-0.004876532069414519,-0.14899501451970942,-0.14949200761478076

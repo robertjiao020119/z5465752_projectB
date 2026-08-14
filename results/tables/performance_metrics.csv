@@ -1,0 +1,5 @@
+annualised_return,annualised_volatility,sharpe,maximum_drawdown,fund,asset_family,method,first_live_date,last_live_date,transaction_cost_bps
+0.1497918531249396,0.21251687241172765,0.7632789382310537,-0.2874698799026537,Combined Equal Weight,Combined,Equal Weight,2021-01-04,2023-12-29,0.0
+0.05635920432947272,0.1270549456659734,0.4950716486998765,-0.14899501451970942,Combined Minimum Variance,Combined,Minimum Variance,2021-01-04,2023-12-29,0.0
+0.14006856581835536,0.1601297434944325,0.8988578759426719,-0.19711479310389934,Combined Risk Parity,Combined,Risk Parity,2021-01-04,2023-12-29,0.0
+0.05571474545611932,0.12708052806066356,0.490195116630462,-0.14949200761478076,Combined Minimum Variance + Sentiment,Combined,Minimum Variance + Sentiment,2021-01-04,2023-12-29,0.0

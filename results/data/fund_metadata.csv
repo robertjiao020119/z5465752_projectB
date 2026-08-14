@@ -1,0 +1,5 @@
+fund,asset_family,method,first_live_date,last_live_date,product,target_user,transaction_cost_bps
+Combined Equal Weight,Combined,Equal Weight,2021-01-04,2023-12-29,Better Finance,"Busy investors who want simple, understandable fund comparisons",0.0
+Combined Minimum Variance,Combined,Minimum Variance,2021-01-04,2023-12-29,Better Finance,"Busy investors who want simple, understandable fund comparisons",0.0
+Combined Risk Parity,Combined,Risk Parity,2021-01-04,2023-12-29,Better Finance,"Busy investors who want simple, understandable fund comparisons",0.0
+Combined Minimum Variance + Sentiment,Combined,Minimum Variance + Sentiment,2021-01-04,2023-12-29,Better Finance,"Busy investors who want simple, understandable fund comparisons",0.0
